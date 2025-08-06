@@ -54,3 +54,6 @@ console.log(data.items);
 
 // update transaction id
 data.payment.transactionId = 'TXN-MOOSHCAT-1122334455';
+
+// update order total
+data.payment.orderTotal = 10000;
