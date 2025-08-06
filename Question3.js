@@ -23,6 +23,7 @@ while(age > 0){
 }
 
 console.log(divisionNumber);
+
 // ternary operator
 const vote = age >= 18 ? 'You can vote' : 'You need to be 18 to vote';
 console.log(vote);
